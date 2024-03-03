@@ -1,4 +1,4 @@
-import {DragCardContainer} from "./Drag-card/drag-card"
+import { DragCardContainer } from "./Drag-card/drag-card";
 
 export default function Home() {
   return (
